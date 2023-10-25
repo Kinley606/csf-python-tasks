@@ -1,0 +1,5 @@
+Age = int(18)
+print(Age)
+Name = ("dorji")
+print(type(Name))
+print(Name)
